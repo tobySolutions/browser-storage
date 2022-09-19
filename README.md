@@ -2,10 +2,10 @@
 various browser-storage
 
 Understand:
-Cookies
+1.Cookies
 
-Local Storage
+2.Local Storage
 
-Session Storage
+3.Session Storage
 
-IndexedDB
+4.IndexedDB
